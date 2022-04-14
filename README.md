@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
-## Deliverable 1 
+
+## Linear Regression to Predict MPG
+Our linear regression shows extremely low p-values vehicle length and ground clearance,
 
 ## Deliverable 2
 
