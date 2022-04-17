@@ -10,7 +10,9 @@ Our linear regression shows extremely low p-values for vehicle length and ground
 Because the multiple regression has r-values near .70 and an extremely low p-value, we can conclude this combination of variables has a significant impact on mileage. However, because the intercept is so significant, there are likely improvements we could make to improve the predictive value of the model.
 
 ## Summary Statistics on Suspension Coils
-Analysis to come.
+![Screen Shot 2022-04-17 at 11 39 42 AM](https://user-images.githubusercontent.com/4724180/163724030-5b8074ae-a224-455b-ae02-6817ab5072d8.png)
+
+As we see from the above summary table, there is much more variance in lot 3 than the other two lots. A closer look at the results of our one-sample t-tests shows a p-value of .041 for lot 3, and lot 3 is unique for having a p-value that is below our significance level. Therefore we don't have evidence to reject our null hypothesis, and we must conclude lot 3 is statistically more likely to contain products that do not meet manufacturing standards.
 
 ## T-tests on Suspension Coils
 Analysis to come.
