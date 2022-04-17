@@ -18,3 +18,4 @@ Because the multiple regression has r-values near .70 and an extremely low p-val
 
 
 ## Study Design: MechaCar vs. competition
+To demonstrate how MechaCar performs against competition for owner satisfaction, for example, one could gather data from survey results measuring the satisfaction of owners of different vehicles. In such a study, a null hypothesis might say "MechaCar owners are more satisfied than competing vehicle owners," while the alt hypothesis would say "MechaCar owners are not more satisfied than owners of competing vehicles." A one sample t-test would tell us if MechaCar owners were more satisifed than vehicle owners overall, and while a two-sample t-test would allow us to determine if MechaCar owners are more satisfied than owners of a specific competing vehicle, provided that vehicle was represented in our survey population.
