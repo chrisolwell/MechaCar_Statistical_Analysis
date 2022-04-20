@@ -7,7 +7,7 @@ Our linear regression shows extremely low p-values for vehicle length and ground
 
 ![Screen Shot 2022-04-14 at 5 19 01 PM](https://user-images.githubusercontent.com/4724180/163486172-72d5e525-f3e9-4a93-9cf2-9cb18212c14a.png)
 
-Because the multiple regression has r-values near .70 and an extremely low p-value, we can conclude this combination of variables has a significant impact on mileage. However, because the intercept is so significant, there are likely improvements we could make to improve the predictive value of the model.
+Because the multiple regression has r-values near .70 and an extremely low p-value, we can conclude this combination of variables has a significant impact on mileage. However, because the intercept is so significant, there are likely improvements we could make to increase the predictive value of the model.
 
 ## Summary Statistics on Suspension Coils
 ![Screen Shot 2022-04-17 at 11 39 42 AM](https://user-images.githubusercontent.com/4724180/163724030-5b8074ae-a224-455b-ae02-6817ab5072d8.png)
