@@ -1,6 +1,5 @@
 # MechaCar_Statistical_Analysis
 Using R and statistics to learn about vehicles
-
 ## Linear Regression to Predict MPG
 To determine the impact of various vehicle characteristics on its miles per gallon, we used a multiple linear regression model run through R Studio. We input data points for each vehicle's weight, length, ground clearnace, spoiler angle, mpg and whether it is all wheel drive or two wheel drive. Our null hypothesis is that these variables have no impact on a vehicle's mileage
 
